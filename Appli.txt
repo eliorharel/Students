@@ -1,0 +1,17 @@
+Utilisation d'un DataGridView pour l'affichage des élèves
+1/ Nom de l'élève
+2/ Date du premier cours
+3/ Niveau académique
+4/ Niveau personnel
+
+GroupBox pour l'ajout d'élèves 
+Idem que alpha mais avec l'option de rajouter des élèves
+Bouton supprimer
+
+Idées d'amélioration à réfléchir :
+1/ Etablissement fréquenté
+2/ Listes des chapitres étudiés
+3/ Durée du suivi
+4/ Variation des résultats
+5/ Contacts
+6/ Planning
